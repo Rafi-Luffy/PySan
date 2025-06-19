@@ -2,9 +2,11 @@
 
 <p align="center">
   <img src="https://img.shields.io/github/deployments/Rafi-Luffy/PySan/github-pages?label=deployed&logo=github&style=for-the-badge" alt="GitHub Pages Deployment"/>
-  <img src="https://img.shields.io/github/license/Rafi-Luffy/PySan?style=for-the-badge" alt="License"/>
+  <img src="https://img.shields.io/github/license/Rafi-Luffy/PySan?style=for-the-badge" alt="MIT License"/>
   <img src="https://img.shields.io/github/languages/top/Rafi-Luffy/PySan?style=for-the-badge" alt="Top Language"/>
 </p>
+
+<p align="center"><strong>License:</strong> MIT</p>
 
 ---
 
