@@ -26,7 +26,6 @@
 - 📁 <strong>Smart Bloat Analysis</strong> — Find out which packages are taking up unnecessary space  
 - 🧠 <strong>Removal Recommendations</strong> — Clean suggestions for decluttering your setup  
 - 🧩 <strong>Real-time Code Blocks</strong> — See the actual pip commands you'd use  
-- 👤 <strong>Environment Selector</strong> — Toggle between custom profiles (e.g. base, conda, venv)  
 - ⚡ <strong>Fully Client-side</strong> — Built with React + TypeScript + Vite, deployed on GitHub Pages  
 
 ---
