@@ -21,7 +21,7 @@
 
 ---
 
-## 📦 Features
+## Features
 
 -  <strong>Visualize Installed Packages</strong> — Understand your Python environment at a glance  
 -  <strong>Smart Bloat Analysis</strong> — Find out which packages are taking up unnecessary space  
@@ -31,7 +31,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 -  React 19  
 -  TypeScript  
