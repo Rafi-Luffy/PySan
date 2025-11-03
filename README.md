@@ -1,4 +1,4 @@
-<h1 align="center">🚀 PySan – Python Environment Visualizer</h1>
+<h1 align="center"> PySan – Python Environment Visualizer</h1>
 
 <p align="center">
   <img src="https://img.shields.io/github/deployments/Rafi-Luffy/PySan/github-pages?label=deployed&logo=github&style=for-the-badge" alt="GitHub Pages Deployment"/>
@@ -23,25 +23,25 @@
 
 ## 📦 Features
 
-- �� <strong>Visualize Installed Packages</strong> — Understand your Python environment at a glance  
-- 📁 <strong>Smart Bloat Analysis</strong> — Find out which packages are taking up unnecessary space  
-- 🧠 <strong>Removal Recommendations</strong> — Clean suggestions for decluttering your setup  
-- 🧩 <strong>Real-time Code Blocks</strong> — See the actual pip commands you'd use  
-- ⚡ <strong>Fully Client-side</strong> — Built with React + TypeScript + Vite, deployed on GitHub Pages  
+-  <strong>Visualize Installed Packages</strong> — Understand your Python environment at a glance  
+-  <strong>Smart Bloat Analysis</strong> — Find out which packages are taking up unnecessary space  
+-  <strong>Removal Recommendations</strong> — Clean suggestions for decluttering your setup  
+-  <strong>Real-time Code Blocks</strong> — See the actual pip commands you'd use  
+-  <strong>Fully Client-side</strong> — Built with React + TypeScript + Vite, deployed on GitHub Pages  
 
 ---
 
 ## 🛠️ Tech Stack
 
-- ⚛️ React 19  
-- 🧠 TypeScript  
-- ⚡ Vite  
-- 🎨 Tailwind CSS *(optional – if used)*  
-- 📦 gh-pages for deployment  
+-  React 19  
+-  TypeScript  
+-  Vite  
+-  Tailwind CSS *(optional – if used)*  
+-  gh-pages for deployment  
 
 ---
 
-## 📁 Folder Structure
+## Folder Structure
 
 <pre>
 ├── public
@@ -60,7 +60,7 @@
 
 ---
 
-## 🚀 Local Development
+## Local Development
 
 <pre><code>
 # Clone the repo
@@ -91,15 +91,15 @@ npm run deploy     # Pushes to gh-pages branch
 
 Contributions, ideas, and bug reports are welcome!
 
-1. 🍴 Fork the repo  
-2. 👯 Clone your fork  
-3. 💡 Create a new branch  
-4. 🛠️ Make your changes  
-5. 🚀 Push and submit a PR
+1. Fork the repo  
+2. Clone your fork  
+3. Create a new branch  
+4. Make your changes  
+5. Push and submit a PR
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the <strong>MIT License</strong>.  
 Feel free to use, modify, and distribute with attribution.
